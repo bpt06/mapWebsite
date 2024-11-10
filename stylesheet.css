@@ -21,6 +21,7 @@
     text-align: center;
     color: #b0b0b0;
     margin: 0;
+    font-size: 1vw;
 }
 
 .top-map {
@@ -81,6 +82,7 @@
 .map-link .arduino .arduino-zoom h3 {
     color: #b0b0b0;
     text-align: center;
+    font-size: 1vw;
 }
 
 .map-link .arduino .arduino-zoom p {
@@ -119,6 +121,7 @@
 .map-link .ic .ic-zoom h3 {
     color: #b0b0b0;
     text-align: center;
+    font-size: 1vw;
 }
 
 .map-link .ic .ic-zoom p {
@@ -157,6 +160,7 @@
 .map-link .resistors .resistors-zoom h3 {
     color: #b0b0b0;
     text-align: center;
+    font-size: 1vw;
 }
 
 .map-link .resistors .resistors-zoom p {
@@ -195,6 +199,7 @@
 .map-link .seven-seg-display .seven-seg-display-zoom h3 {
     color: #b0b0b0;
     text-align: center;
+    font-size: 1vw;
 }
 
 .map-link .seven-seg-display .seven-seg-display-zoom p {
@@ -226,6 +231,7 @@
     background-color: #303030;
     color: #b0b0b0;
     text-align: center;
+    font-size: 1vw;
 }
 
 .essay p {
@@ -235,4 +241,5 @@
     height: auto;
     color: #b0b0b0;
     text-align: left;
+    font-size: 1vw;
 }
