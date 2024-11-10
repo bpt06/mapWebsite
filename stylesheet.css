@@ -88,7 +88,7 @@
     margin: auto;
     width: 90%;
     height: auto;
-    font-size: 2.5vw;
+    font-size: 1vw;
 }
 
 /*ic*/
@@ -214,7 +214,7 @@
     right: 0;
     bottom: 0;
     width: 100vw;
-    height: auto;
+    height: 50vw;
     background-color: rgb(40, 40, 40);
     margin: 0;
 }
