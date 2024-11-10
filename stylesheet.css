@@ -10,7 +10,7 @@ html {
 .top-bar {
     position: fixed;
     width: 100%;
-    height: 35px;
+    height: 2vw;
     top: 0;
     left: 0;
     right: 0;
@@ -29,7 +29,7 @@ html {
 
 .top-map {
     position: absolute;
-    top: 35px;
+    top: 2vw;
     left: 0;
     right: 0;
     bottom: 0;
@@ -218,7 +218,7 @@ html {
 
 .essay {
     position: absolute;
-    top: 55.44vw;
+    top: 57.44vw;
     left: 0;
     right: 0;
     bottom: 0;
