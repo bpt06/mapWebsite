@@ -1,6 +1,7 @@
 * {
     box-sizing: border-box;
     display: block;
+    background-color: #000;
 }
 
 .top-bar {
