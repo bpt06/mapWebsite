@@ -88,6 +88,7 @@
     margin: auto;
     width: 90%;
     height: auto;
+    font-size: 5%;
 }
 
 /*ic*/
@@ -125,6 +126,7 @@
     margin: auto;
     width: 95%;
     height: auto;
+    font-size: 10%;
 }
 
 /*resistors*/
@@ -162,6 +164,7 @@
     margin: auto;
     width: 95%;
     height: auto;
+    font-size: 10%;
 }
 
 /*seven-seg-display*/
@@ -199,6 +202,7 @@
     margin: auto;
     width: 90%;
     height: auto;
+    font-size: 7%;
 }
 
 /*essay*/
