@@ -88,7 +88,7 @@
     margin: auto;
     width: 90%;
     height: auto;
-    font-size: 0.5vw;
+    font-size: 0.1vw;
 }
 
 /*ic*/
@@ -209,7 +209,7 @@
 
 .essay {
     position: absolute;
-    top: clac(55.44vw + 35px);
+    top: clac(35px + 55.44vw);
     left: 0;
     right: 0;
     bottom: 0;
