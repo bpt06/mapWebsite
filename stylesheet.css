@@ -237,7 +237,7 @@ html {
     font-size: 1.75vw;
 }
 
-.essay p {
+.essay .essay-paragraph {
     display: flex;
     margin: auto;
     width: 95%;
@@ -248,8 +248,14 @@ html {
     text-indent: 20px;
 }
 
-.essay p a {
-    color: blue;
+.essay .link-paragraph {
+    display: flex;
+    margin: 10% auto;
+    width: 95%;
+    height: auto;
+    color: #b0b0b0;
+    text-align: left;
+    font-size: 1vw;
 }
 
 /*example maps*/
