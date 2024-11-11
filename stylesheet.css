@@ -248,6 +248,10 @@ html {
     text-indent: 20px;
 }
 
+.essay p a {
+    color: blue;
+}
+
 /*example maps*/
 
 .example-one {
