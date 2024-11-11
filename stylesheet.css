@@ -258,6 +258,10 @@ html {
     font-size: 1vw;
 }
 
+.essay p a {
+    color: blue;
+}
+
 /*example maps*/
 
 .example-one {
