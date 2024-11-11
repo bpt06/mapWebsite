@@ -115,10 +115,10 @@ html {
 .map-link .ic .ic-zoom {
     position: absolute;
     background-color: #303030;
-    top: -1050%;
+    top: -1010%;
     left: -400%;
     width: 400%;
-    height: 680%;
+    height: 690%;
 }
 
 .map-link .ic .ic-zoom h3 {
