@@ -262,8 +262,9 @@ html {
 }
 
 .example-one img {
-    width: 100vw;
+    width: 75vw;
     height: auto;
+    margin: auto;
 }
 
 .example-one p {
@@ -272,5 +273,5 @@ html {
     height: auto;
     text-align: center;
     color: #b0b0b0;
-    font-size: 0.5vw;
+    font-size: 0.75vw;
 }
