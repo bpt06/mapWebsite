@@ -224,7 +224,7 @@ html {
     right: 0;
     bottom: 0;
     width: 100vw;
-    height: 50vw;
+    height: 40vw;
     background-color: rgb(40, 40, 40);
     margin: 0;
 }
@@ -256,6 +256,7 @@ html {
     color: #b0b0b0;
     text-align: left;
     font-size: 1.2vw;
+    text-align: center;
 }
 
 .essay .link-paragraph a {
@@ -267,7 +268,7 @@ html {
 
 .example-one {
     position: absolute;
-    top: 95vw;
+    top: 85vw;
     left: 0;
     right: 0;
     bottom: 0;
@@ -293,7 +294,7 @@ html {
 
 .example-two {
     position: absolute;
-    top: 140vw;
+    top: 130vw;
     left: 0;
     right: 0;
     bottom: 0;
