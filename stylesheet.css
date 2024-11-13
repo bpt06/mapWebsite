@@ -96,7 +96,6 @@ html {
     width: 90%;
     height: auto;
     font-size: 1vw;
-    text-indent: 20px;
 }
 
 /*ic*/
@@ -136,7 +135,6 @@ html {
     width: 95%;
     height: auto;
     font-size: 1vw;
-    text-indent: 20px;
 }
 
 /*resistors*/
@@ -176,7 +174,6 @@ html {
     width: 95%;
     height: auto;
     font-size: 1vw;
-    text-indent: 20px;
 }
 
 /*seven-seg-display*/
@@ -216,7 +213,6 @@ html {
     width: 90%;
     height: auto;
     font-size: 1vw;
-    text-indent: 20px;
 }
 
 /*essay*/
@@ -244,13 +240,12 @@ html {
 
 .essay .essay-paragraph {
     display: flex;
-    margin: auto;
-    width: 95%;
+    margin: 0 auto 3vw; 
+    width: 80%;
     height: auto;
     color: #b0b0b0;
     text-align: left;
     font-size: 1.2vw;
-    text-indent: 20px;
 }
 
 .essay .link-paragraph {
