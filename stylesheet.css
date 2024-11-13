@@ -116,8 +116,8 @@ html {
     position: absolute;
     background-color: #303030;
     top: -1010%;
-    left: -400%;
-    width: 400%;
+    left: -450%;
+    width: 500%;
     height: 690%;
 }
 
@@ -272,7 +272,7 @@ html {
     bottom: 0;
     background-color: rgb(40, 40, 40);
     width: 100%;
-    height: 50vw;
+    height: 45vw;
 }
 
 .example-one img {
@@ -282,6 +282,32 @@ html {
 }
 
 .example-one p {
+    position: absolute;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    color: #b0b0b0;
+    font-size: 0.75vw;
+}
+
+.example-two {
+    position: absolute;
+    top: 140vw;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(40, 40, 40);
+    width: 100%;
+    height: 30vw;
+}
+
+.example-two img {
+    width: 75vw;
+    height: auto;
+    margin: auto;
+}
+
+.example-two p {
     position: absolute;
     width: 100%;
     height: auto;
