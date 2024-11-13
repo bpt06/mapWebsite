@@ -258,7 +258,7 @@ html {
     font-size: 1vw;
 }
 
-.essay p a {
+.essay .link-paragraph a {
     color: blue;
 }
 
