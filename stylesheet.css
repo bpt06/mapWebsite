@@ -250,7 +250,7 @@ html {
 
 .essay .link-paragraph {
     display: flex;
-    margin: 10% auto;
+    margin-top: 10%;
     width: 95%;
     height: auto;
     color: #b0b0b0;
