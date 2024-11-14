@@ -250,13 +250,12 @@ html {
 
 .essay .link-paragraph {
     display: flex;
-    margin-top: 10%;
-    width: 100%;
+    width: auto;
     height: auto;
     color: #b0b0b0;
     text-align: left;
     font-size: 1.2vw;
-    margin: 0 auto 5vw;
+    margin: 10% auto;
 }
 
 .essay .link-paragraph a {
@@ -268,7 +267,7 @@ html {
 
 .example-one {
     position: absolute;
-    top: 90vw;
+    top: 85vw;
     left: 0;
     right: 0;
     bottom: 0;
@@ -294,7 +293,7 @@ html {
 
 .example-two {
     position: absolute;
-    top: 135vw;
+    top: 130vw;
     left: 0;
     right: 0;
     bottom: 0;
