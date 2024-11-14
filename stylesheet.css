@@ -250,12 +250,12 @@ html {
 
 .essay .link-paragraph {
     display: flex;
-    width: auto;
+    width: 80%;
     height: auto;
     color: #b0b0b0;
     text-align: left;
     font-size: 1.2vw;
-    margin: 10% auto;
+    margin: 5% auto 5%;
 }
 
 .essay .link-paragraph a {
