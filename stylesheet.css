@@ -11,7 +11,7 @@ html {
 .top-bar {
     position: fixed;
     width: 100%;
-    height: 4vw;
+    height: 3.5vw;
     top: 0;
     left: 0;
     right: 0;
@@ -25,7 +25,7 @@ html {
     text-align: center;
     color: #b0b0b0;
     margin: 0;
-    font-size: 3vw;
+    font-size: 2.5vw;
 }
 
 .top-map {
@@ -235,7 +235,7 @@ html {
     background-color: #303030;
     color: #b0b0b0;
     text-align: center;
-    font-size: 2.5vw;
+    font-size: 2vw;
 }
 
 .essay .essay-paragraph {
@@ -280,7 +280,7 @@ html {
     width: 75vw;
     height: auto;
     margin: auto;
-    border-radius: 10%;
+    border-radius: 3vw;
 }
 
 .example-one p {
@@ -307,7 +307,7 @@ html {
     width: 75vw;
     height: auto;
     margin: auto;
-    border-radius: 10%;
+    border-radius: 3vw;
 }
 
 .example-two p {
